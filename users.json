@@ -1,0 +1,9 @@
+{
+  "JOHNsaDOE": {
+    "email": "john@mail.com",
+    "first_name": "John",
+    "events": {
+      "Мероприятие 1": "Мероприятие простое несложное"
+    }
+  }
+}
